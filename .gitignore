@@ -1,2 +1,4 @@
 node_modules
 .codesnack-ide
+ignore-folder
+ignore-git.js
