@@ -1,5 +1,5 @@
 module.exports = {
   webhookUrl: 'WEBHOOK_ENDPOINT',
   apiToken: 'BOT_API_TOKEN',
-  test: 1
+  test: 2
 }
