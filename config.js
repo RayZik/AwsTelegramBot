@@ -4,10 +4,9 @@ module.exports = {
   test: 88,
   testddd: 3,
   test2: 'test2',
-  oo: 112121212,
-  d: 1,
+  oo: 645654645612,
   test: 8,
   x: 1,
-  dsada: 33333,
+  dsada: 53535345,
   rwerwer: 2
 }
